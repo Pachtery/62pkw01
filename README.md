@@ -2,6 +2,7 @@
 ----------
 #### Download & install Application
 Download:
+----------
 #### Install Opencv-Python on Raspberry pi 4 
 ----------
 1. Update & Upgrade แพ็คเกจของราสเบอร์รีพาย
@@ -46,7 +47,7 @@ Download:
   pip install numpy
  ```
 ----------
-#### Install Opencv-Python on Raspberry pi 4 
+#### Install Webcam on Raspberry pi 4 
 ----------
 ```bash
   sudo apt-get install fswebcam
