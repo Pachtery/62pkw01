@@ -25,6 +25,7 @@ Download:
   sudo apt-get install gcc-arm* protobuf-compiler
  ```
 4. ทำการดาวน์โหลดโอเพนซีวีสำหรับราสเบร์รีพาย
+
    - ดาวน์โหลดโอเพนซีวี
  ```bash
   cd ~
