@@ -36,7 +36,7 @@ Download:
   unzip opencv.zip
   unzip opencv_contrib.zip
  ```
-  - ทำการเปลี่ยนชื่อไฟล์ของโอเพนซีวีเพื่อนำไปใช้งานในโครงงาน
+   - ทำการเปลี่ยนชื่อไฟล์ของโอเพนซีวีเพื่อนำไปใช้งานในโครงงาน
  ```bash
   mv opencv-4.0.0 opencv
   mv opencv_contrib-4.0.0 opencv_contrib
