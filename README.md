@@ -60,5 +60,5 @@ Download:
  1. การใช้งานแอปพลิเคชันในการควบคุมการเปิดและปิดไฟ
 
 - ทำการรันเซิร์ฟเวร์ของราสเบอร์รีพายก่อนพื่อให้แอปพลิเคชันสามารถควบคุมการทำงานการเปิดและปิดของหลอดไฟได้
-[![server.jpg](https://i.postimg.cc/Bn12p7xm/server.jpg)](https://postimg.cc/gxmwkDth)
+          [![server.jpg](https://i.postimg.cc/Bn12p7xm/server.jpg)](https://postimg.cc/gxmwkDth)
 
