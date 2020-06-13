@@ -31,11 +31,13 @@ Download:
   wget -O opencv.zip https://github.com/opencv/opencv/archive/4.0.0.zip
   wget -O opencv_contrib.zip https://github.com/opencv/opencv_contrib/archive/4.0.0.zip
  ```
+   - ดาวน์โหลดโอเพนซีวี
    - ทำการแตกซิปไฟล์ที่ดาวน์โหลดมา
  ```bash
   unzip opencv.zip
   unzip opencv_contrib.zip
  ```
+   - ดาวน์โหลดโอเพนซีวี
    - ทำการเปลี่ยนชื่อไฟล์ของโอเพนซีวีเพื่อนำไปใช้งานในโครงงาน
  ```bash
   mv opencv-4.0.0 opencv
