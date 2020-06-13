@@ -1,8 +1,4 @@
-├── branches
-├── config
-├── description
-├── HEAD
-├── hooks
+
 ### วิธีการติดตั้งโปรแกรม
 ----------
 #### Download & install Application
