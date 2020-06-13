@@ -1,6 +1,4 @@
-tree [-adfgilnopqrstuxACDFNS] [-L level [-R]] [-H baseHREF] [-T title] [-o filename]
-[–nolinks] [-P pattern] [-I pattern] [–inodes] [–device] [–noreport] [–dirsfirst]
-[–version] [–help] [directory …]
+ $ tree -a ./GFG 
 ### วิธีการติดตั้งโปรแกรม
 ----------
 #### Download & install Application
