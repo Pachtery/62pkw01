@@ -82,18 +82,23 @@ from : [Library parinya](https://pypi.org/project/parinya/)
 ----------
 ### โครงสร้างการทำงานของระบบ
 ----------
-
-├── branches
-├── config
-├── description
-├── HEAD
-├── hooks
-├── info
-│   └── exclude
-├── objects
-│   ├── info
-│   └── pack
-└── refs
-    ├── heads
-    └── tags
-    
+```bash
+├── Application
+│   ├── TULampTracking.aia
+│   └── TULampTracking.apk  
+├── FaceDetection
+│   ├── Cascade
+│       └── haarcascade_frontalface_default.xml
+│   ├── dataset
+│   ├── trainer
+│       └── classifier_face.xml
+│   ├── 01_face_detection.py
+│   ├── 02_train_face.py
+│   └── 03_face_recognition.py
+├── HandDetection
+│   ├── 01_hand_detection.py
+│   └── hand_haar_cascade.xml
+├── Server
+│   └── server.py
+└── README.md  
+ ```
