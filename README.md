@@ -59,6 +59,7 @@ Download:
 ```bash
  pip install parinya
 ```
+from : https://pypi.org/project/parinya/
 
 #### คำอธิบายการใช้งาน
 ```bash
