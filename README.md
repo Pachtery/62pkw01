@@ -3,6 +3,7 @@
 ----------
 #### Download & install Application
 Download: [Application](https://github.com/Pachtery/62pkw01/tree/master/Application)
+Download: [Source Code](https://github.com/Pachtery/62pkw01)
 
 ----------
 #### Install Opencv-Python on Raspberry pi 4 
@@ -59,7 +60,7 @@ Download: [Application](https://github.com/Pachtery/62pkw01/tree/master/Applicat
 ```bash
  pip install parinya
 ```
-from : https://pypi.org/project/parinya/
+from : [Library parinya](https://pypi.org/project/parinya/)
 
 #### คำอธิบายการใช้งาน
 ```bash
