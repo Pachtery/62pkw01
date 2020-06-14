@@ -83,6 +83,7 @@ from : [Library parinya](https://pypi.org/project/parinya/)
 ### โครงสร้างการทำงานของระบบ
 ----------
 ```bash
+.
 ├── Application
 │   ├── TULampTracking.aia
 │   └── TULampTracking.apk  
