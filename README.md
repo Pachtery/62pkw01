@@ -83,5 +83,29 @@ from : [Library parinya](https://pypi.org/project/parinya/)
 ### โครงสร้างการทำงานของระบบ
 ----------
 
---123
----111
+├── branches
+
+├── config
+
+├── description
+
+├── HEAD
+
+├── hooks
+
+├── info
+
+│   └── exclude
+
+├── objects
+
+│   ├── info
+
+│   └── pack
+
+└── refs
+
+    ├── heads
+    
+    └── tags
+    
