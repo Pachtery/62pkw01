@@ -89,10 +89,10 @@ from : [Library parinya](https://pypi.org/project/parinya/)
 │   └── TULampTracking.apk  
 ├── FaceDetection
 │   ├── Cascade
-│       └── haarcascade_frontalface_default.xml
+│   │    └── haarcascade_frontalface_default.xml
 │   ├── dataset
 │   ├── trainer
-│       └── classifier_face.xml
+│   │    └── classifier_face.xml
 │   ├── 01_face_detection.py
 │   ├── 02_train_face.py
 │   └── 03_face_recognition.py
