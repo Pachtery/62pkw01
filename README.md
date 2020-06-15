@@ -79,11 +79,11 @@ from : [Library parinya](https://pypi.org/project/parinya/)
 
 (1) ผลลัพธ์ของการใช้งานไลบรารีโอเพนซีวีในการตรวจจับใบหน้า
 
-[![Capture.png](https://i.postimg.cc/1z7MX7ZP/Capture.png)](https://postimg.cc/cKYf5mH5)
+[![Capture.png](https://i.postimg.cc/1z7MX7ZP/Capture.png)
 
 (2) ผลลัพธ์ของการใช้งานไลบรารีโอเพนซีวีในการตรวจจับมือ
 
-[![2020-04-18-174119-1280x720-scrot.png](https://i.postimg.cc/3JQ1kDzy/2020-04-18-174119-1280x720-scrot.png)](https://postimg.cc/K4QBV4GF)
+[![2020-04-18-174119-1280x720-scrot.png](https://i.postimg.cc/3JQ1kDzy/2020-04-18-174119-1280x720-scrot.png)
 
 ----------
 ### โครงสร้างการทำงานของระบบ
