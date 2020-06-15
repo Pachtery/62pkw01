@@ -9,7 +9,6 @@ Download: [Application](https://github.com/Pachtery/62pkw01/tree/master/Applicat
 ----------
 #### Install Opencv-Python on Raspberry pi 4 
 ----------
-Download: [Source Code](https://github.com/Pachtery/62pkw01)
 
 1. Update & Upgrade แพ็คเกจของราสเบอร์รีพาย
  ```bash
@@ -70,7 +69,8 @@ from : [Library parinya](https://pypi.org/project/parinya/)
 ```bash
   เมื่อทำการติดตั้ง OpenCV และ Webcam บน Raspberry pi เรียบร้อยแล้ว ผู้ใช้สามารถเรียกใช้งาน การทำงานของกล้องเว็บแคมในการตรวจจับใบหน้าเพื่อสร้างระบบเตือนภัยอัตโนมัติและการทำงานของกล้องเว็บแคมในการตรวจจับมือเพื่อสร้างระบบควบคุมเครื่องใช้ไฟฟ้าอัตโนมัติ
  ```
- <a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/6QkNKmyP/image.jpg' border='0' alt='image'/></a>
+ Download: [Source Code](https://github.com/Pachtery/62pkw01)
+ [![image.jpg](https://i.postimg.cc/6QkNKmyP/image.jpg)](https://postimg.cc/kVvHFwNN)
 
 ----------
 
