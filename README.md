@@ -70,6 +70,8 @@ from : [Library parinya](https://pypi.org/project/parinya/)
   เมื่อทำการติดตั้ง OpenCV และ Webcam บน Raspberry pi เรียบร้อยแล้ว ผู้ใช้สามารถเรียกใช้งาน การทำงานของกล้องเว็บแคมในการตรวจจับใบหน้าเพื่อสร้างระบบเตือนภัยอัตโนมัติและการทำงานของกล้องเว็บแคมในการตรวจจับมือเพื่อสร้างระบบควบคุมเครื่องใช้ไฟฟ้าอัตโนมัติ
  ```
  Download: [Source Code](https://github.com/Pachtery/62pkw01)
+ 
+ 
  [![image.jpg](https://i.postimg.cc/6QkNKmyP/image.jpg)](https://postimg.cc/kVvHFwNN)
 
 ----------
