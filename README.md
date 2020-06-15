@@ -2,32 +2,31 @@
 ### วิธีการติดตั้งโปรแกรม
 ----------
 #### Download & install Application
+สามารถดาวน์โหลดแอปพลิเคชันสำหรับใช้งานโครงงาน (ไฟล์ TULampTracking.apk) และติดตั้งบนโทรศัพท์แอนดรอยด์
 Download: [Application](https://github.com/Pachtery/62pkw01/tree/master/Application)
-
-Download: [Source Code](https://github.com/Pachtery/62pkw01)
 
 ----------
 #### Install Opencv-Python on Raspberry pi 4 
 ----------
+Download: [Source Code](https://github.com/Pachtery/62pkw01)
+
 1. Update & Upgrade แพ็คเกจของราสเบอร์รีพาย
  ```bash
   sudo apt-get update && sudo apt-get upgrade
  ```
 2.	ติดตั้งเครื่องมือในการใช้งานโอเพนซีวีคือ CMake สำหรับเป็นตัวช่วยในการกำหนดค่ากระบวนการสร้างโอเพนซีวี
  ```bash
-  sudo apt-get install build-essential cmake pkg-config
+  sudo apt-get install build-essential cmake unzip pkg-config
  ```
 3. ติดตั้งไลบรารีของรูปภาพ วิดีโอ และคำสั่งการใช้งานพื้นฐานที่เกี่ยวข้องสำหรับใช้งานโอเพนซีวี
 ```bash
-  sudo apt-get install cmake gfortran
-  sudo apt-get install libjpeg-dev libtiff-dev libgif-dev
-  sudo apt-get install libavcodec-dev libavformat-dev libswscale-dev
-  sudo apt-get install libgtk2.0-dev libcanberra-gtk*
-  sudo apt-get install libxvidcore-dev libx264-dev libgtk-3-dev
-  sudo apt-get install libtbb2 libtbb-dev libdc1394–22-dev libv4l-dev
-  sudo apt-get install libopenblas-dev libatlas-base-dev libblas-dev
-  sudo apt-get install libjasper-dev liblapack-dev libhdf5-dev
-  sudo apt-get install gcc-arm* protobuf-compiler
+  sudo apt-get install libjpeg-dev libpng-dev libtiff-dev
+  sudo apt-get install libavcodec-dev libavformat-dev libswscale-dev libv4l-dev
+  sudo apt-get install libxvidcore-dev libx264-dev
+  sudo apt-get install libgtk-3-dev
+  sudo apt-get install libcanberra-gtk*
+  sudo apt-get install libatlas-base-dev gfortran
+  sudo apt-get install python3-dev
  ```
 4. ทำการดาวน์โหลดโอเพนซีวีสำหรับราสเบร์รีพาย
 - ดาวน์โหลดโอเพนซีวี
@@ -50,6 +49,9 @@ Download: [Source Code](https://github.com/Pachtery/62pkw01)
  ```bash
   pip install numpy
  ```
+ 
+ from : [Library OpenCV-Python](https://www.pyimagesearch.com/2018/09/26/install-opencv-4-on-your-raspberry-pi/)
+ 
 ----------
 #### Install Webcam on Raspberry pi 4 
 ----------
@@ -67,10 +69,12 @@ from : [Library parinya](https://pypi.org/project/parinya/)
 ```bash
   เมื่อทำการติดตั้ง OpenCV และ Webcam บน Raspberry pi เรียบร้อยแล้ว ผู้ใช้สามารถเรียกใช้งาน การทำงานของกล้องเว็บแคมในการตรวจจับใบหน้าเพื่อสร้างระบบเตือนภัยอัตโนมัติและการทำงานของกล้องเว็บแคมในการตรวจจับมือเพื่อสร้างระบบควบคุมเครื่องใช้ไฟฟ้าอัตโนมัติ
  ```
+ [image.jpg](https://postimg.cc/kVvHFwNN)
 
 ----------
 
 #### ผลลัพธ์การทำงานของโปรแกรม
+
 (1) ผลลัพธ์ของการใช้งานไลบรารีโอเพนซีวีในการตรวจจับใบหน้า
 
 [![Capture.png](https://i.postimg.cc/1z7MX7ZP/Capture.png)](https://postimg.cc/cKYf5mH5)
