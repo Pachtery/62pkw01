@@ -3,6 +3,7 @@
 ----------
 #### Download & install Application
 สามารถดาวน์โหลดแอปพลิเคชันสำหรับใช้งานโครงงาน (ไฟล์ TULampTracking.apk) และติดตั้งบนโทรศัพท์แอนดรอยด์
+
 Download: [Application](https://github.com/Pachtery/62pkw01/tree/master/Application)
 
 ----------
@@ -69,7 +70,7 @@ from : [Library parinya](https://pypi.org/project/parinya/)
 ```bash
   เมื่อทำการติดตั้ง OpenCV และ Webcam บน Raspberry pi เรียบร้อยแล้ว ผู้ใช้สามารถเรียกใช้งาน การทำงานของกล้องเว็บแคมในการตรวจจับใบหน้าเพื่อสร้างระบบเตือนภัยอัตโนมัติและการทำงานของกล้องเว็บแคมในการตรวจจับมือเพื่อสร้างระบบควบคุมเครื่องใช้ไฟฟ้าอัตโนมัติ
  ```
- [image.jpg](https://postimg.cc/kVvHFwNN)
+ <a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/6QkNKmyP/image.jpg' border='0' alt='image'/></a>
 
 ----------
 
