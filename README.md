@@ -71,8 +71,7 @@ from : [Library parinya](https://pypi.org/project/parinya/)
  ```
  Download: [Source Code](https://github.com/Pachtery/62pkw01)
  
- 
- [![image.jpg](https://i.postimg.cc/6QkNKmyP/image.jpg)](https://postimg.cc/kVvHFwNN)
+ [![image.jpg](https://i.postimg.cc/6QkNKmyP/image.jpg)
 
 ----------
 
